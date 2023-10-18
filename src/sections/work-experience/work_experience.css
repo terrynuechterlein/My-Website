@@ -1,0 +1,34 @@
+.work-experience__container{
+  display: grid;
+  gap: 1.5rem;
+}
+
+#work-experience h2 {
+  margin-bottom: 4rem; 
+}
+
+.card.work-experience {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.work-experience__icon{
+  background: var(--color-primary);
+  padding: 0.6rem;
+  border-radius: var(--border-radius-3);
+  font-size: 1.5rem;
+  color: var(--color-white);
+  transition: var(--transition);
+}
+
+.work-experience:hover .work-experience__icon{
+  background: var(--color-light);
+  color: var(--color-primary);
+}
+
+.work-experience h4{
+  margin-bottom: 0.7rem;
+}
+
+
