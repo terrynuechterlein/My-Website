@@ -9,15 +9,13 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Clone the repository
 
-In the repository, go to the code section and copy the project URL. Paste this link in your terminal in the directory of your choice
+● In the repository, go to the code section and copy the project URL. Paste this link in your terminal in the directory of your choice
 
-### Install Dependencies:
+## Install Dependencies:
 
-Once you've cloned the project, install npm
-●npm install
+● Once you've cloned the project, install npm with: npm install
 
-### Launch the Website
+## Launch the Website
 
-After installing the dependencies, you're all good to run the website with the following script:
-●npm start
+● After installing the dependencies, you're all good to run the website with the following script: npm start
 
